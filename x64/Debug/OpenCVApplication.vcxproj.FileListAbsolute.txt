@@ -1,0 +1,2 @@
+D:\Facultate\An 3 Sem 2\IP\OpenCVApplication-VS2022_OCV490_basic\x64\Debug\OpenCVApplication.exe
+D:\Facultate\An 3 Sem 2\ITEC\OpenCVApplication-VS2022_OCV490_basic\x64\Debug\OpenCVApplication.exe

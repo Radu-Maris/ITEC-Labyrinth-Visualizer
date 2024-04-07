@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  common.cpp
+  OpenCVApplication.cpp
+  Generating Code...
+  OpenCVApplication.vcxproj -> D:\Facultate\An 3 Sem 2\ITEC\OpenCVApplication-VS2022_OCV490_basic\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_videoio_ffmpeg490_64.dll
+  OpenCV\dll\Debug\opencv_videoio_msmf490_64d.dll
+  OpenCV\dll\Debug\opencv_world490d.dll
+          3 file(s) copied.
